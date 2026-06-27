@@ -6,11 +6,14 @@
 ![Lucide React](https://img.shields.io/badge/Lucide_React-000000?style=for-the-badge&logo=lucide&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Hızlı bir şekilde web site yapabilmeniz için hazır template
+Ready-made templates to help you build a website quickly
 
 
 ```bash
-git clone .
+git clone https://github.com/DeveloperKubilay/React-template
+code .
 npm install
 npm run dev
 ```
+
+![](https://github.com/DeveloperKubilay/React-template/blob/main/public/image.png?raw=true)
